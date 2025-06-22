@@ -1,4 +1,4 @@
-# PackEditor
+# ![icon](source/icon.png) PackEditor
 
 A simple resource pack editor designed specifically for **MCCC** team.  
 Supports automatic injection of custom metadata and pack comments.
