@@ -13,14 +13,22 @@ Join the community on Discord: [discord.gg/crystalcommunity](https://discord.gg/
 - Minimal and fast — no installation required.
 
 ## 🛠 Requirements
-- [7-Zip](https://www.7-zip.org/) ([added to system PATH](([added to system PATH](https://www.reddit.com/r/techsupport/comments/2wz4v1/how_do_i_add_unrar_to_my_path/))))
-- [WinRAR](https://www.win-rar.com/) ([added to system PATH](https://www.reddit.com/r/techsupport/comments/2wz4v1/how_do_i_add_unrar_to_my_path/))
+- [7-Zip](https://www.7-zip.org/) (must be added to system PATH)
+- [WinRAR](https://www.win-rar.com/) (must be added to system PATH)
 
 ## 📦 How to Use
-1. Run the batch script.
+1. Run the exe file.
 2. Drag and drop your `.zip` resource pack.
 3. Script automatically extracts, edits, repacks, and adds your comment.
 4. Your original `.zip` is replaced with the modified one.
+
+## 🧪 Source-Code convertion
+If you want to turn the source into an `.exe` file:
+
+1. Download **[Bat To Exe Converter](https://bat-to-exe-converter-x64.en.softonic.com/?ex=RAMP-3252.2)**
+2. Open the program.
+3. Select your `.bat` file.
+4. Click **Convert** (no other settings required).
 
 ---
 
