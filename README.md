@@ -1,4 +1,4 @@
-# ![icon](source/icon.png) PackEditor
+<h1><img src="source/icon.png" alt="icon" width="32" height="32" style="vertical-align:middle;"> PackEditor</h1>
 
 A simple resource pack editor designed specifically for **MCCC** team.  
 Supports automatic injection of custom metadata and pack comments.
