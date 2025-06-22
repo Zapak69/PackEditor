@@ -1,4 +1,6 @@
-<h1><img src="source/icon.png" alt="icon" width="256" height="256" align=center style="vertical-align:middle;">
+<div align="center">
+  <img src="source/icon.png" alt="icon" width="256" height="256" style="vertical-align:middle;">
+</div>
 
 A simple resource pack editor designed specifically for **MCCC** team.  
 Supports automatic injection of custom metadata and pack comments.
