@@ -19,8 +19,11 @@ Join the community on Discord: [discord.gg/crystalcommunity](https://discord.gg/
 ## 📦 How to Use
 1. Run the exe file.
 2. Drag and drop your `.zip` resource pack.
-3. Script automatically extracts, edits, repacks, and adds your comment.
-4. Your original `.zip` is replaced with the modified one.
+
+3. Or simply drag and frop your `.zip` resource pack to `.exe` file.
+   
+4. Script automatically extracts, edits, repacks, and adds your comment.
+5. Your original `.zip` is replaced with the modified one.
 
 ## 🧪 Source-Code convertion
 If you want to turn the source into an `.exe` file:
